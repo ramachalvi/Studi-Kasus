@@ -1,0 +1,20 @@
+body {
+  padding: 30px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.awal {
+  color: rgb(236, 63, 63);
+}
+
+.text{
+  text-indent: 50px;
+  font-size: 18px;
+  margin-left: 75px;
+  margin-right: 75px; 
+  text-align: justify;
+}
